@@ -15,7 +15,7 @@
 - 🎓 M.Sc. Mechatronics student at **Universität Siegen, Germany**  
 - 💼 **2.5+ years** of experience in ML, Deep Learning, Computer Vision & Generative AI  
 - 🌱 Exploring **Multi-Agent Systems & Model Context Protocol (MCP)**  
-- 📍 Based in **Germany** (Open to relocation)  
+- 📍 Based in **Wolfsburg, Germany** 
 - 📫 Reach me at **kudavaleabhisheksingh@gmail.com**  
   
 ---  
