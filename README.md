@@ -2,8 +2,8 @@
 <h3 align="center">AI/ML Engineer | Computer Vision | Generative AI | Agentic AI</h3>  
   
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white"/></a>  
+  <img src="https://komarev.com/ghpvc/?username=Akudavale&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
+  <a href="https://www.linkedin.com/in/abhisheksinghkudavale/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white"/></a>  
   <a href="mailto:kudavaleabhisheksingh@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>  
 </p>  
   
